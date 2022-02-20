@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | CardiffNLP</title>
-    <link>cardiffnlp.github.io/publication_types/</link>
-      <atom:link href="cardiffnlp.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cardiffnlp.github.io/publication_types/</link>
+      <atom:link href="https://cardiffnlp.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <url>https://cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
       <title>Publication_types</title>
-      <link>cardiffnlp.github.io/publication_types/</link>
+      <link>https://cardiffnlp.github.io/publication_types/</link>
     </image>
     
   </channel>

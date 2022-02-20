@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>embeddings | CardiffNLP</title>
-    <link>cardiffnlp.github.io/tag/embeddings/</link>
-      <atom:link href="cardiffnlp.github.io/tag/embeddings/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cardiffnlp.github.io/tag/embeddings/</link>
+      <atom:link href="https://cardiffnlp.github.io/tag/embeddings/index.xml" rel="self" type="application/rss+xml" />
     <description>embeddings</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Fri, 18 Feb 2022 21:25:48 +0000</lastBuildDate>
     <image>
-      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <url>https://cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
       <title>embeddings</title>
-      <link>cardiffnlp.github.io/tag/embeddings/</link>
+      <link>https://cardiffnlp.github.io/tag/embeddings/</link>
     </image>
     
     <item>
       <title>RELATIVE</title>
-      <link>cardiffnlp.github.io/project/relative/</link>
+      <link>https://cardiffnlp.github.io/project/relative/</link>
       <pubDate>Fri, 18 Feb 2022 21:25:48 +0000</pubDate>
-      <guid>cardiffnlp.github.io/project/relative/</guid>
+      <guid>https://cardiffnlp.github.io/project/relative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SeVeN: Semantic Vector Networks</title>
-      <link>cardiffnlp.github.io/project/seven/</link>
+      <link>https://cardiffnlp.github.io/project/seven/</link>
       <pubDate>Fri, 18 Feb 2022 21:24:59 +0000</pubDate>
-      <guid>cardiffnlp.github.io/project/seven/</guid>
+      <guid>https://cardiffnlp.github.io/project/seven/</guid>
       <description></description>
     </item>
     
