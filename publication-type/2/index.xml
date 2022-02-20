@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | CardiffNLP</title>
+    <link>cardiffnlp.github.io/publication-type/2/</link>
+      <atom:link href="cardiffnlp.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>cardiffnlp.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and Evaluation of Language Models for Word Sense Disambiguation</title>
+      <link>cardiffnlp.github.io/publication/loureiro-etal-2021-analysis/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>cardiffnlp.github.io/publication/loureiro-etal-2021-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

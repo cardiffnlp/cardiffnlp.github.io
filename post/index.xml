@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | CardiffNLP</title>
+    <link>cardiffnlp.github.io/post/</link>
+      <atom:link href="cardiffnlp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <title>Latest News</title>
+      <link>cardiffnlp.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Looking for PhD Students!</title>
+      <link>cardiffnlp.github.io/post/2022-02-19/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>cardiffnlp.github.io/post/2022-02-19/</guid>
+      <description>&lt;p&gt;Do you aim to make information more accessible to everyone? I am looking for students to work on different tasks for text adaption (e.g. Text Simplification, Readability Assessment, etc.).&lt;/p&gt;
+&lt;p&gt;You could either apply to one of the School of Computer Science &lt;a href=&#34;https://findaphd.com/phds/project/natural-language-processing-for-text-adaptation/?p141418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;studentships&lt;/a&gt; (&lt;strong&gt;Deadline 29/04&lt;/strong&gt;), or be &lt;a href=&#34;https://findaphd.com/phds/project/natural-language-processing-for-text-adaptation-self-funded-students-only/?p141424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;self-funded&lt;/a&gt;.
+Do not hesitate to get in touch if you&amp;rsquo;re interested!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
