@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>twitter | CardiffNLP</title>
-    <link>cardiffnlp.github.io/tag/twitter/</link>
-      <atom:link href="cardiffnlp.github.io/tag/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cardiffnlp.github.io/tag/twitter/</link>
+      <atom:link href="https://cardiffnlp.github.io/tag/twitter/index.xml" rel="self" type="application/rss+xml" />
     <description>twitter</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Fri, 18 Feb 2022 21:25:38 +0000</lastBuildDate>
     <image>
-      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <url>https://cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
       <title>twitter</title>
-      <link>cardiffnlp.github.io/tag/twitter/</link>
+      <link>https://cardiffnlp.github.io/tag/twitter/</link>
     </image>
     
     <item>
       <title>TweetEval</title>
-      <link>cardiffnlp.github.io/project/tweeteval/</link>
+      <link>https://cardiffnlp.github.io/project/tweeteval/</link>
       <pubDate>Fri, 18 Feb 2022 21:25:38 +0000</pubDate>
-      <guid>cardiffnlp.github.io/project/tweeteval/</guid>
+      <guid>https://cardiffnlp.github.io/project/tweeteval/</guid>
       <description></description>
     </item>
     
