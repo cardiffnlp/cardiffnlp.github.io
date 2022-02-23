@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CardiffNLP</title>
-    <link>https://cardiffnlp.github.io/</link>
-      <atom:link href="https://cardiffnlp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>cardiffnlp.github.io/</link>
+      <atom:link href="cardiffnlp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CardiffNLP</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Thu, 17 Mar 2022 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
       <title>CardiffNLP</title>
-      <link>https://cardiffnlp.github.io/</link>
+      <link>cardiffnlp.github.io/</link>
     </image>
     
     <item>
       <title>Seminar: Title TBA</title>
-      <link>https://cardiffnlp.github.io/event/2022-03-17/</link>
+      <link>cardiffnlp.github.io/event/2022-03-17/</link>
       <pubDate>Thu, 17 Mar 2022 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2022-03-17/</guid>
+      <guid>cardiffnlp.github.io/event/2022-03-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5-minute Presentations</title>
-      <link>https://cardiffnlp.github.io/event/2022-03-03/</link>
+      <link>cardiffnlp.github.io/event/2022-03-03/</link>
       <pubDate>Thu, 03 Mar 2022 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2022-03-03/</guid>
+      <guid>cardiffnlp.github.io/event/2022-03-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypernym Discovery</title>
-      <link>https://cardiffnlp.github.io/project/hypernymdiscovery/</link>
+      <link>cardiffnlp.github.io/project/hypernymdiscovery/</link>
       <pubDate>Fri, 18 Feb 2022 21:27:12 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/hypernymdiscovery/</guid>
+      <guid>cardiffnlp.github.io/project/hypernymdiscovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemDeep-6</title>
-      <link>https://cardiffnlp.github.io/project/semdeep6/</link>
+      <link>cardiffnlp.github.io/project/semdeep6/</link>
       <pubDate>Fri, 18 Feb 2022 21:26:52 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/semdeep6/</guid>
+      <guid>cardiffnlp.github.io/project/semdeep6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T-NER</title>
-      <link>https://cardiffnlp.github.io/project/tner/</link>
+      <link>cardiffnlp.github.io/project/tner/</link>
       <pubDate>Fri, 18 Feb 2022 21:26:01 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/tner/</guid>
+      <guid>cardiffnlp.github.io/project/tner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Don&#39;t Patronize Me!</title>
-      <link>https://cardiffnlp.github.io/project/dontpatronizeme/</link>
+      <link>cardiffnlp.github.io/project/dontpatronizeme/</link>
       <pubDate>Fri, 18 Feb 2022 21:25:57 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/dontpatronizeme/</guid>
+      <guid>cardiffnlp.github.io/project/dontpatronizeme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RELATIVE</title>
-      <link>https://cardiffnlp.github.io/project/relative/</link>
+      <link>cardiffnlp.github.io/project/relative/</link>
       <pubDate>Fri, 18 Feb 2022 21:25:48 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/relative/</guid>
+      <guid>cardiffnlp.github.io/project/relative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meemi</title>
-      <link>https://cardiffnlp.github.io/project/meemi/</link>
+      <link>cardiffnlp.github.io/project/meemi/</link>
       <pubDate>Fri, 18 Feb 2022 21:25:44 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/meemi/</guid>
+      <guid>cardiffnlp.github.io/project/meemi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TweetEval</title>
-      <link>https://cardiffnlp.github.io/project/tweeteval/</link>
+      <link>cardiffnlp.github.io/project/tweeteval/</link>
       <pubDate>Fri, 18 Feb 2022 21:25:38 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/tweeteval/</guid>
+      <guid>cardiffnlp.github.io/project/tweeteval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SeVeN: Semantic Vector Networks</title>
-      <link>https://cardiffnlp.github.io/project/seven/</link>
+      <link>cardiffnlp.github.io/project/seven/</link>
       <pubDate>Fri, 18 Feb 2022 21:24:59 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/seven/</guid>
+      <guid>cardiffnlp.github.io/project/seven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Looking for PhD Students!</title>
-      <link>https://cardiffnlp.github.io/post/2022-02-19/</link>
+      <link>cardiffnlp.github.io/post/2022-02-19/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/post/2022-02-19/</guid>
+      <guid>cardiffnlp.github.io/post/2022-02-19/</guid>
       <description>&lt;p&gt;Do you aim to make information more accessible to everyone? I am looking for students to work on different tasks for text adaption (e.g. Text Simplification, Readability Assessment, etc.).&lt;/p&gt;
 &lt;p&gt;You could either apply to one of the School of Computer Science &lt;a href=&#34;https://findaphd.com/phds/project/natural-language-processing-for-text-adaptation/?p141418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;studentships&lt;/a&gt; (&lt;strong&gt;Deadline 29/04&lt;/strong&gt;), or be &lt;a href=&#34;https://findaphd.com/phds/project/natural-language-processing-for-text-adaptation-self-funded-students-only/?p141424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;self-funded&lt;/a&gt;.
 Do not hesitate to get in touch if you&amp;rsquo;re interested!&lt;/p&gt;</description>
@@ -104,329 +104,329 @@ Do not hesitate to get in touch if you&amp;rsquo;re interested!&lt;/p&gt;</descr
     
     <item>
       <title>Quarterly Group Meeting</title>
-      <link>https://cardiffnlp.github.io/event/2022-02-17/</link>
+      <link>cardiffnlp.github.io/event/2022-02-17/</link>
       <pubDate>Thu, 17 Feb 2022 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2022-02-17/</guid>
+      <guid>cardiffnlp.github.io/event/2022-02-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading Group: &#34;Sentiment Analysis and COVID-19&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2022-02-10/</link>
+      <link>cardiffnlp.github.io/event/2022-02-10/</link>
       <pubDate>Thu, 10 Feb 2022 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2022-02-10/</guid>
+      <guid>cardiffnlp.github.io/event/2022-02-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Staff Meeting</title>
-      <link>https://cardiffnlp.github.io/event/2022-02-03/</link>
+      <link>cardiffnlp.github.io/event/2022-02-03/</link>
       <pubDate>Thu, 03 Feb 2022 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2022-02-03/</guid>
+      <guid>cardiffnlp.github.io/event/2022-02-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading Group: &#34;Interpretability in NLP&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2022-01-27/</link>
+      <link>cardiffnlp.github.io/event/2022-01-27/</link>
       <pubDate>Thu, 27 Jan 2022 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2022-01-27/</guid>
+      <guid>cardiffnlp.github.io/event/2022-01-27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar: &#34;Learning Text Representations from Pre-trained Language Models via Contrastive Learning and Self-Distillation&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2021-12-02/</link>
+      <link>cardiffnlp.github.io/event/2021-12-02/</link>
       <pubDate>Thu, 02 Dec 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-12-02/</guid>
+      <guid>cardiffnlp.github.io/event/2021-12-02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference-like Presentations</title>
-      <link>https://cardiffnlp.github.io/event/2021-11-25/</link>
+      <link>cardiffnlp.github.io/event/2021-11-25/</link>
       <pubDate>Thu, 25 Nov 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-11-25/</guid>
+      <guid>cardiffnlp.github.io/event/2021-11-25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Back to the Basics: A Quantitative Analysis of Statistical and Graph-Based Term Weighting Schemes for Keyword Extraction</title>
-      <link>https://cardiffnlp.github.io/publication/ushio-etal-2021-back/</link>
+      <link>cardiffnlp.github.io/publication/ushio-etal-2021-back/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/ushio-etal-2021-back/</guid>
+      <guid>cardiffnlp.github.io/publication/ushio-etal-2021-back/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distilling Relation Embeddings from Pretrained Language Models</title>
-      <link>https://cardiffnlp.github.io/publication/ushio-etal-2021-distilling/</link>
+      <link>cardiffnlp.github.io/publication/ushio-etal-2021-distilling/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/ushio-etal-2021-distilling/</guid>
+      <guid>cardiffnlp.github.io/publication/ushio-etal-2021-distilling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Cross-lingual Transferability of Contextualized Sense Embeddings</title>
-      <link>https://cardiffnlp.github.io/publication/rezaee-etal-2021-cross/</link>
+      <link>cardiffnlp.github.io/publication/rezaee-etal-2021-cross/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/rezaee-etal-2021-cross/</guid>
+      <guid>cardiffnlp.github.io/publication/rezaee-etal-2021-cross/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion Panel: &#34;Teaching in NLP&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2021-10-28/</link>
+      <link>cardiffnlp.github.io/event/2021-10-28/</link>
       <pubDate>Thu, 28 Oct 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-10-28/</guid>
+      <guid>cardiffnlp.github.io/event/2021-10-28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar: &#34;A Medley of Event-Based Modality and Role Question Generation&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2021-10-14/</link>
+      <link>cardiffnlp.github.io/event/2021-10-14/</link>
       <pubDate>Thu, 14 Oct 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-10-14/</guid>
+      <guid>cardiffnlp.github.io/event/2021-10-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar: &#34;Multilingual Machine Translation with Language-Specific Encoder-Decoders: Translation Quality and Gender Accuracy&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2021-09-23/</link>
+      <link>cardiffnlp.github.io/event/2021-09-23/</link>
       <pubDate>Thu, 23 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-09-23/</guid>
+      <guid>cardiffnlp.github.io/event/2021-09-23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short Presentations by PhD Students</title>
-      <link>https://cardiffnlp.github.io/event/2021-09-16/</link>
+      <link>cardiffnlp.github.io/event/2021-09-16/</link>
       <pubDate>Thu, 16 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-09-16/</guid>
+      <guid>cardiffnlp.github.io/event/2021-09-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar: &#34;Graphext, a tool for exploring and modeling complex datasets of structured and unstructured data&#34;</title>
-      <link>https://cardiffnlp.github.io/event/2021-09-09/</link>
+      <link>cardiffnlp.github.io/event/2021-09-09/</link>
       <pubDate>Thu, 09 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/event/2021-09-09/</guid>
+      <guid>cardiffnlp.github.io/event/2021-09-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies?</title>
-      <link>https://cardiffnlp.github.io/publication/ushio-etal-2021-bert/</link>
+      <link>cardiffnlp.github.io/publication/ushio-etal-2021-bert/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/ushio-etal-2021-bert/</guid>
+      <guid>cardiffnlp.github.io/publication/ushio-etal-2021-bert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 and Misinformation: A Large-Scale Lexical Analysis on Twitter</title>
-      <link>https://cardiffnlp.github.io/publication/antypas-etal-2021-covid/</link>
+      <link>cardiffnlp.github.io/publication/antypas-etal-2021-covid/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/antypas-etal-2021-covid/</guid>
+      <guid>cardiffnlp.github.io/publication/antypas-etal-2021-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deriving Word Vectors from Contextualized Language Models using Topic-Aware Mention Selection</title>
-      <link>https://cardiffnlp.github.io/publication/wang-etal-2021-deriving/</link>
+      <link>cardiffnlp.github.io/publication/wang-etal-2021-deriving/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/wang-etal-2021-deriving/</guid>
+      <guid>cardiffnlp.github.io/publication/wang-etal-2021-deriving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probing Pre-Trained Language Models for Disease Knowledge</title>
-      <link>https://cardiffnlp.github.io/publication/alghanmi-etal-2021-probing/</link>
+      <link>cardiffnlp.github.io/publication/alghanmi-etal-2021-probing/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/alghanmi-etal-2021-probing/</guid>
+      <guid>cardiffnlp.github.io/publication/alghanmi-etal-2021-probing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis and Evaluation of Language Models for Word Sense Disambiguation</title>
-      <link>https://cardiffnlp.github.io/publication/loureiro-etal-2021-analysis/</link>
+      <link>cardiffnlp.github.io/publication/loureiro-etal-2021-analysis/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/loureiro-etal-2021-analysis/</guid>
+      <guid>cardiffnlp.github.io/publication/loureiro-etal-2021-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Language Models for the Retrieval and Categorization of Lexical Collocations</title>
-      <link>https://cardiffnlp.github.io/publication/espinosa-anke-etal-2021-evaluating/</link>
+      <link>cardiffnlp.github.io/publication/espinosa-anke-etal-2021-evaluating/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/espinosa-anke-etal-2021-evaluating/</guid>
+      <guid>cardiffnlp.github.io/publication/espinosa-anke-etal-2021-evaluating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition</title>
-      <link>https://cardiffnlp.github.io/publication/ushio-camacho-collados-2021-ner/</link>
+      <link>cardiffnlp.github.io/publication/ushio-camacho-collados-2021-ner/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/ushio-camacho-collados-2021-ner/</guid>
+      <guid>cardiffnlp.github.io/publication/ushio-camacho-collados-2021-ner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context</title>
-      <link>https://cardiffnlp.github.io/publication/breit-etal-2021-wic/</link>
+      <link>cardiffnlp.github.io/publication/breit-etal-2021-wic/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/breit-etal-2021-wic/</guid>
+      <guid>cardiffnlp.github.io/publication/breit-etal-2021-wic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Mixture-of-Experts Model for Learning Multi-Facet Entity Embeddings</title>
-      <link>https://cardiffnlp.github.io/publication/alshaikh-etal-2020-mixture/</link>
+      <link>cardiffnlp.github.io/publication/alshaikh-etal-2020-mixture/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/alshaikh-etal-2020-mixture/</guid>
+      <guid>cardiffnlp.github.io/publication/alshaikh-etal-2020-mixture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cardiff University at SemEval-2020 Task 6: Fine-tuning BERT for Domain-Specific Definition Classification</title>
-      <link>https://cardiffnlp.github.io/publication/jeawak-etal-2020-cardiff/</link>
+      <link>cardiffnlp.github.io/publication/jeawak-etal-2020-cardiff/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/jeawak-etal-2020-cardiff/</guid>
+      <guid>cardiffnlp.github.io/publication/jeawak-etal-2020-cardiff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CollFrEn: Rich Bilingual English--French Collocation Resource</title>
-      <link>https://cardiffnlp.github.io/publication/fisas-etal-2020-collfren/</link>
+      <link>cardiffnlp.github.io/publication/fisas-etal-2020-collfren/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/fisas-etal-2020-collfren/</guid>
+      <guid>cardiffnlp.github.io/publication/fisas-etal-2020-collfren/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Definition Extraction Feature Analysis: From Canonical to Naturally-Occurring Definitions</title>
-      <link>https://cardiffnlp.github.io/publication/roig-mirapeix-etal-2020-definition/</link>
+      <link>cardiffnlp.github.io/publication/roig-mirapeix-etal-2020-definition/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/roig-mirapeix-etal-2020-definition/</guid>
+      <guid>cardiffnlp.github.io/publication/roig-mirapeix-etal-2020-definition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Don&#39;t Patronize Me! An Annotated Dataset with Patronizing and Condescending Language towards Vulnerable Communities</title>
-      <link>https://cardiffnlp.github.io/publication/perez-almendros-etal-2020-dont/</link>
+      <link>cardiffnlp.github.io/publication/perez-almendros-etal-2020-dont/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/perez-almendros-etal-2020-dont/</guid>
+      <guid>cardiffnlp.github.io/publication/perez-almendros-etal-2020-dont/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embeddings in Natural Language Processing</title>
-      <link>https://cardiffnlp.github.io/publication/camacho-collados-pilehvar-2020-embeddings/</link>
+      <link>cardiffnlp.github.io/publication/camacho-collados-pilehvar-2020-embeddings/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/camacho-collados-pilehvar-2020-embeddings/</guid>
+      <guid>cardiffnlp.github.io/publication/camacho-collados-pilehvar-2020-embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go Simple and Pre-Train on Domain-Specific Corpora: On the Role of Training Data for Text Classification</title>
-      <link>https://cardiffnlp.github.io/publication/edwards-etal-2020-go/</link>
+      <link>cardiffnlp.github.io/publication/edwards-etal-2020-go/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/edwards-etal-2020-go/</guid>
+      <guid>cardiffnlp.github.io/publication/edwards-etal-2020-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Preemptive Detection of Depression and Anxiety in Twitter</title>
-      <link>https://cardiffnlp.github.io/publication/owen-etal-2020-towards/</link>
+      <link>cardiffnlp.github.io/publication/owen-etal-2020-towards/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/owen-etal-2020-towards/</guid>
+      <guid>cardiffnlp.github.io/publication/owen-etal-2020-towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining BERT with Static Word Embeddings for Categorizing Social Media</title>
-      <link>https://cardiffnlp.github.io/publication/alghanmi-etal-2020-combining/</link>
+      <link>cardiffnlp.github.io/publication/alghanmi-etal-2020-combining/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/alghanmi-etal-2020-combining/</guid>
+      <guid>cardiffnlp.github.io/publication/alghanmi-etal-2020-combining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Don&#39;t Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation</title>
-      <link>https://cardiffnlp.github.io/publication/loureiro-camacho-collados-2020-dont/</link>
+      <link>cardiffnlp.github.io/publication/loureiro-camacho-collados-2020-dont/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/loureiro-camacho-collados-2020-dont/</guid>
+      <guid>cardiffnlp.github.io/publication/loureiro-camacho-collados-2020-dont/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification</title>
-      <link>https://cardiffnlp.github.io/publication/barbieri-etal-2020-tweeteval/</link>
+      <link>cardiffnlp.github.io/publication/barbieri-etal-2020-tweeteval/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/barbieri-etal-2020-tweeteval/</guid>
+      <guid>cardiffnlp.github.io/publication/barbieri-etal-2020-tweeteval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the Source of Semantic Regularities in Word Embeddings</title>
-      <link>https://cardiffnlp.github.io/publication/chiang-etal-2020-understanding/</link>
+      <link>cardiffnlp.github.io/publication/chiang-etal-2020-understanding/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/chiang-etal-2020-understanding/</guid>
+      <guid>cardiffnlp.github.io/publication/chiang-etal-2020-understanding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization</title>
-      <link>https://cardiffnlp.github.io/publication/raganato-etal-2020-xl/</link>
+      <link>cardiffnlp.github.io/publication/raganato-etal-2020-xl/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/raganato-etal-2020-xl/</guid>
+      <guid>cardiffnlp.github.io/publication/raganato-etal-2020-xl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Company Embeddings from Annual Reports for Fine-grained Industry Characterization</title>
-      <link>https://cardiffnlp.github.io/publication/ito-etal-2020-learning/</link>
+      <link>cardiffnlp.github.io/publication/ito-etal-2020-learning/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/ito-etal-2020-learning/</guid>
+      <guid>cardiffnlp.github.io/publication/ito-etal-2020-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Short Survey on Sense-Annotated Corpora</title>
-      <link>https://cardiffnlp.github.io/publication/pasini-camacho-collados-2020-short/</link>
+      <link>cardiffnlp.github.io/publication/pasini-camacho-collados-2020-short/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/pasini-camacho-collados-2020-short/</guid>
+      <guid>cardiffnlp.github.io/publication/pasini-camacho-collados-2020-short/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Robustness of Unsupervised and Semi-supervised Cross-lingual Word Embedding Learning</title>
-      <link>https://cardiffnlp.github.io/publication/doval-etal-2020-robustness/</link>
+      <link>cardiffnlp.github.io/publication/doval-etal-2020-robustness/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/publication/doval-etal-2020-robustness/</guid>
+      <guid>cardiffnlp.github.io/publication/doval-etal-2020-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cardiffnlp.github.io/admin/config.yml</link>
+      <link>cardiffnlp.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/admin/config.yml</guid>
+      <guid>cardiffnlp.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cardiffnlp.github.io/people/</link>
+      <link>cardiffnlp.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/people/</guid>
+      <guid>cardiffnlp.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cardiffnlp.github.io/research/</link>
+      <link>cardiffnlp.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/research/</guid>
+      <guid>cardiffnlp.github.io/research/</guid>
       <description></description>
     </item>
     

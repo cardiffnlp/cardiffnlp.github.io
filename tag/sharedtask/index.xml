@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sharedtask | CardiffNLP</title>
-    <link>https://cardiffnlp.github.io/tag/sharedtask/</link>
-      <atom:link href="https://cardiffnlp.github.io/tag/sharedtask/index.xml" rel="self" type="application/rss+xml" />
+    <link>cardiffnlp.github.io/tag/sharedtask/</link>
+      <atom:link href="cardiffnlp.github.io/tag/sharedtask/index.xml" rel="self" type="application/rss+xml" />
     <description>sharedtask</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Fri, 18 Feb 2022 21:27:12 +0000</lastBuildDate>
     <image>
-      <url>https://cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
+      <url>/cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
       <title>sharedtask</title>
-      <link>https://cardiffnlp.github.io/tag/sharedtask/</link>
+      <link>cardiffnlp.github.io/tag/sharedtask/</link>
     </image>
     
     <item>
       <title>Hypernym Discovery</title>
-      <link>https://cardiffnlp.github.io/project/hypernymdiscovery/</link>
+      <link>cardiffnlp.github.io/project/hypernymdiscovery/</link>
       <pubDate>Fri, 18 Feb 2022 21:27:12 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/hypernymdiscovery/</guid>
+      <guid>cardiffnlp.github.io/project/hypernymdiscovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemDeep-6</title>
-      <link>https://cardiffnlp.github.io/project/semdeep6/</link>
+      <link>cardiffnlp.github.io/project/semdeep6/</link>
       <pubDate>Fri, 18 Feb 2022 21:26:52 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/semdeep6/</guid>
+      <guid>cardiffnlp.github.io/project/semdeep6/</guid>
       <description></description>
     </item>
     
