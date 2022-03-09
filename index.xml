@@ -5,7 +5,7 @@
     <link>https://cardiffnlp.github.io/</link>
       <atom:link href="https://cardiffnlp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CardiffNLP</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Thu, 17 Mar 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Thu, 07 Apr 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cardiffnlp.github.io/media/logo_hu0783fea5b94ed946bc25027bcefc18a7_37029_300x300_fit_lanczos_3.png</url>
       <title>CardiffNLP</title>
@@ -13,11 +13,56 @@
     </image>
     
     <item>
+      <title>5-minute Presentations</title>
+      <link>https://cardiffnlp.github.io/event/2022-04-07/</link>
+      <pubDate>Thu, 07 Apr 2022 13:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/event/2022-04-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiff NLP Workshop Organisation</title>
+      <link>https://cardiffnlp.github.io/event/2022-03-24/</link>
+      <pubDate>Thu, 24 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/event/2022-03-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seminar: Title TBA</title>
       <link>https://cardiffnlp.github.io/event/2022-03-17/</link>
       <pubDate>Thu, 17 Mar 2022 13:00:00 +0000</pubDate>
       <guid>https://cardiffnlp.github.io/event/2022-03-17/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>1st Cardiff NLP Summer Workshop</title>
+      <link>https://cardiffnlp.github.io/workshop/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/workshop/</guid>
+      <description>&lt;p&gt;We are organising &lt;strong&gt;a free in-person workshop&lt;/strong&gt; on Natural Language Processing.&lt;/p&gt;
+&lt;p&gt;It will take place from &lt;strong&gt;June 30th to July 1st 2022&lt;/strong&gt; in &lt;a href=&#34;https://www.cardiff.ac.uk/campus-developments/projects/abacws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abacws&lt;/a&gt;, the brand-new building for the &lt;a href=&#34;https://www.cardiff.ac.uk/computer-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Computer Scicence&lt;/a&gt; and the &lt;a href=&#34;https://www.cardiff.ac.uk/mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Mathematics&lt;/a&gt; at &lt;a href=&#34;https://www.cardiff.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cardiff University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Target Audience&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The workshop is especially intended to PhD students in UK/Europe, but everyone would be welcome!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Workshop Activities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Invited speakers&lt;/li&gt;
+&lt;li&gt;Tutorials&lt;/li&gt;
+&lt;li&gt;Networking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And of course you will have the chance to visit our lovely city while in Cardiff!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important Dates&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Application Period:&lt;/strong&gt; TBD&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notification of Acceptance:&lt;/strong&gt; TBD&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registration:&lt;/strong&gt; TBD&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop:&lt;/strong&gt; 30 June - 1 July 2022&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details will be announced soon. For now, save the date!&lt;/p&gt;
+</description>
     </item>
     
     <item>
