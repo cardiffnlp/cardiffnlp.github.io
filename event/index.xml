@@ -21,6 +21,23 @@
     </item>
     
     <item>
+      <title>Hands-on class with 🤗 How to build Machine Learning collaboratively?</title>
+      <link>https://cardiffnlp.github.io/event/2022-03-31/</link>
+      <pubDate>Thu, 31 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/event/2022-03-31/</guid>
+      <description>&lt;p&gt;How can you show what a Machine Learning model does once it&amp;rsquo;s trained?&lt;/p&gt;
+&lt;p&gt;In this talk, you&amp;rsquo;re going to learn how to create Machine Learning apps and demos using Streamlit and Gradio, Python libraries for this purpose. Additionally, you&amp;rsquo;ll see how to share them with the rest of the Open Source ecosystem. Learning to create graphic interfaces for models is extremely useful for sharing with other people interesting them.&lt;/p&gt;
+&lt;p&gt;What is required to follow it?&lt;/p&gt;
+&lt;p&gt;👉 Basic knowledge of Python&lt;/p&gt;
+&lt;p&gt;👉 Conceptual knowledge of ML&lt;/p&gt;
+&lt;p&gt;👉 A google Colab account&lt;/p&gt;
+&lt;p&gt;👉 A Hugging Face Hub account&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Thomas Simonini (Machine Learning Engineer at HuggingFace)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zoom Link:&lt;/strong&gt; &lt;a href=&#34;https://cardiff.zoom.us/j/81951311481?pwd=WkJsN09XZ01OM09KaGsvNEx1SVEvUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cardiff.zoom.us/j/81951311481?pwd=WkJsN09XZ01OM09KaGsvNEx1SVEvUT09&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cardiff NLP Workshop Organisation</title>
       <link>https://cardiffnlp.github.io/event/2022-03-24/</link>
       <pubDate>Thu, 24 Mar 2022 13:00:00 +0000</pubDate>
