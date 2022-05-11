@@ -5,12 +5,23 @@
     <link>https://cardiffnlp.github.io/post/</link>
       <atom:link href="https://cardiffnlp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cardiffnlp.github.io/media/logo_hu895984ca1ce58a4bc233150b783a59bc_30457_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
       <link>https://cardiffnlp.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Expressions of Interest for Cardiff NLP Summer Workshop 2022</title>
+      <link>https://cardiffnlp.github.io/post/2022-05-11/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/post/2022-05-11/</guid>
+      <description>&lt;p&gt;We are happy to officially announce the 1st Cardiff NLP Summer Workshop on &lt;strong&gt;June 30 and July 1&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;This workshop will be an opportunity for participants to interact and attend talks/tutorials from high-profile &lt;strong&gt;NLP researchers from industry and academia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Registration is &lt;strong&gt;free&lt;/strong&gt;. &lt;a href=&#34;https://forms.gle/zzvHetEvWBTJeVW8A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Submit your Expression of Interest&lt;/a&gt; by &lt;strong&gt;May 30&lt;/strong&gt;. More information &lt;a href=&#34;https://www.cardiffnlpworkshop.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>1st Cardiff NLP Summer Workshop</title>
