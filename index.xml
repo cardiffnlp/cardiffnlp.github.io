@@ -5,12 +5,20 @@
     <link>https://cardiffnlp.github.io/</link>
       <atom:link href="https://cardiffnlp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CardiffNLP</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Thu, 23 Jun 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Tue, 05 Jul 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cardiffnlp.github.io/media/logo_hu895984ca1ce58a4bc233150b783a59bc_30457_300x300_fit_lanczos_3.png</url>
       <title>CardiffNLP</title>
       <link>https://cardiffnlp.github.io/</link>
     </image>
+    
+    <item>
+      <title>Conference-like Presentations</title>
+      <link>https://cardiffnlp.github.io/event/2022-07-05/</link>
+      <pubDate>Tue, 05 Jul 2022 13:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/event/2022-07-05/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Internal] Cardiff NLP Workshop Organisation</title>
