@@ -5,12 +5,23 @@
     <link>https://cardiffnlp.github.io/post/</link>
       <atom:link href="https://cardiffnlp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cardiffnlp.github.io/media/logo_hu895984ca1ce58a4bc233150b783a59bc_30457_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
       <link>https://cardiffnlp.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Research Assistant Position</title>
+      <link>https://cardiffnlp.github.io/post/2022-06-27/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/post/2022-06-27/</guid>
+      <description>&lt;p&gt;We are looking for a Research Assistant for a UKRI Future Leaders Fellowship project on Natural Language Processing.&lt;/p&gt;
+&lt;p&gt;For an informal discussion about the role, please contact Jose Camacho Collados (Senior Lecturer) – &lt;a href=&#34;mailto:camachocolladosj@cardiff.ac.uk&#34;&gt;camachocolladosj@cardiff.ac.uk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; July 11th&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Start Date:&lt;/strong&gt; September 2022 or later (flexible)&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Expressions of Interest for Cardiff NLP Summer Workshop 2022</title>
