@@ -10,9 +10,15 @@
   <url>
     <loc>https://cardiffnlp.github.io/event/</loc><lastmod>2022-07-05T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://cardiffnlp.github.io/project/plc-sharedtask/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://cardiffnlp.github.io/project/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://cardiffnlp.github.io/tag/sharedtask/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://cardiffnlp.github.io/tags/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cardiffnlp.github.io/project/tempowic/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/project/tweetnlp/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -51,8 +57,6 @@
     <loc>https://cardiffnlp.github.io/event/2022-03-03/</loc><lastmod>2022-03-03T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/project/hypernymdiscovery/</loc><lastmod>2022-02-18T21:27:12+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cardiffnlp.github.io/tag/sharedtask/</loc><lastmod>2022-02-18T21:27:12+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/project/tner/</loc><lastmod>2022-02-18T21:26:01+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
