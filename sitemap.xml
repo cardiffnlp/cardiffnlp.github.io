@@ -10,6 +10,14 @@
   <url>
     <loc>https://cardiffnlp.github.io/event/</loc><lastmod>2022-07-05T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://cardiffnlp.github.io/project/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cardiffnlp.github.io/tags/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cardiffnlp.github.io/project/tweetnlp/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cardiffnlp.github.io/tag/twitter/</loc><lastmod>2022-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://cardiffnlp.github.io/post/</loc><lastmod>2022-06-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/post/2022-06-27/</loc><lastmod>2022-06-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -44,11 +52,7 @@
   <url>
     <loc>https://cardiffnlp.github.io/project/hypernymdiscovery/</loc><lastmod>2022-02-18T21:27:12+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://cardiffnlp.github.io/project/</loc><lastmod>2022-02-18T21:27:12+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://cardiffnlp.github.io/tag/sharedtask/</loc><lastmod>2022-02-18T21:27:12+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cardiffnlp.github.io/tags/</loc><lastmod>2022-02-18T21:27:12+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/project/semdeep6/</loc><lastmod>2022-02-18T21:26:52+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -67,8 +71,6 @@
     <loc>https://cardiffnlp.github.io/project/meemi/</loc><lastmod>2022-02-18T21:25:44+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/project/tweeteval/</loc><lastmod>2022-02-18T21:25:38+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cardiffnlp.github.io/tag/twitter/</loc><lastmod>2022-02-18T21:25:38+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cardiffnlp.github.io/project/seven/</loc><lastmod>2022-02-18T21:24:59+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
