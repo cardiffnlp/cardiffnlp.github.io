@@ -5,12 +5,20 @@
     <link>https://cardiffnlp.github.io/tag/twitter/</link>
       <atom:link href="https://cardiffnlp.github.io/tag/twitter/index.xml" rel="self" type="application/rss+xml" />
     <description>twitter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Fri, 18 Feb 2022 21:25:38 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cardiffnlp.github.io/media/logo_hu895984ca1ce58a4bc233150b783a59bc_30457_300x300_fit_lanczos_3.png</url>
       <title>twitter</title>
       <link>https://cardiffnlp.github.io/tag/twitter/</link>
     </image>
+    
+    <item>
+      <title>Tweet   NLP</title>
+      <link>https://cardiffnlp.github.io/project/tweetnlp/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/project/tweetnlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TweetEval</title>

@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>PCL Detection</title>
+      <link>https://cardiffnlp.github.io/project/plc-sharedtask/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/project/plc-sharedtask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TempoWiC  </title>
+      <link>https://cardiffnlp.github.io/project/tempowic/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/project/tempowic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweet   NLP</title>
+      <link>https://cardiffnlp.github.io/project/tweetnlp/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/project/tweetnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Research Assistant Position</title>
       <link>https://cardiffnlp.github.io/post/2022-06-27/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
@@ -167,14 +191,7 @@ Arturo Oncevay (he/him) is a PhD candidate at the University of Edinburgh, Scotl
 &lt;li&gt;Networking&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And of course you will have the chance to visit our lovely city while in Cardiff!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Important Dates&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Application Period:&lt;/strong&gt; TBD&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Notification of Acceptance:&lt;/strong&gt; TBD&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Registration:&lt;/strong&gt; TBD&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Workshop:&lt;/strong&gt; 30 June - 1 July 2022&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;More details will be announced soon. For now, save the date!&lt;/p&gt;
+&lt;p&gt;More details &lt;a href=&#34;https://www.cardiffnlpworkshop.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
@@ -191,14 +208,6 @@ Arturo Oncevay (he/him) is a PhD candidate at the University of Edinburgh, Scotl
       <link>https://cardiffnlp.github.io/project/hypernymdiscovery/</link>
       <pubDate>Fri, 18 Feb 2022 21:27:12 +0000</pubDate>
       <guid>https://cardiffnlp.github.io/project/hypernymdiscovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SemDeep-6</title>
-      <link>https://cardiffnlp.github.io/project/semdeep6/</link>
-      <pubDate>Fri, 18 Feb 2022 21:26:52 +0000</pubDate>
-      <guid>https://cardiffnlp.github.io/project/semdeep6/</guid>
       <description></description>
     </item>
     
