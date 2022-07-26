@@ -5,12 +5,21 @@
     <link>https://cardiffnlp.github.io/event/</link>
       <atom:link href="https://cardiffnlp.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Activites</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Tue, 05 Jul 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Cardiff NLP</copyright><lastBuildDate>Thu, 27 Oct 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cardiffnlp.github.io/media/logo_hu895984ca1ce58a4bc233150b783a59bc_30457_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Activites</title>
       <link>https://cardiffnlp.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Seminar: TBD </title>
+      <link>https://cardiffnlp.github.io/event/2022-10-27/</link>
+      <pubDate>Thu, 27 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://cardiffnlp.github.io/event/2022-10-27/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Invited Speaker:&lt;/strong&gt; &lt;a href=&#34;https://lowriwilliams.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lowri Williams&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conference-like Presentations</title>
