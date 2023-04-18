@@ -8,7 +8,7 @@ links:
   url: https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1990526_5460
 ---
 
-We are looking for a Research Associate for a UKRI Future Leaders Fellowship project on Natural Language Processing titled “Unsupervised background knowledge for language understanding”.
+We are looking for a Research Associate for a UKRI Future Leaders Fellowship project on Natural Language Processing titled ''Unsupervised background knowledge for language understanding''.
 
 <!--more-->
 
