@@ -12,7 +12,7 @@ We are looking for a Research Associate (Data Engineer) for the [TweetNLP projec
 
 <!--more-->
 
-For an informal discussion about the role, please [contact Jose Camacho Collados (Senior Lecturer)](mailto:camachocolladosj@cardiff.ac.uk).
+For an informal discussion about the role, please [contact Jose Camacho Collados](mailto:camachocolladosj@cardiff.ac.uk) (Senior Lecturer).
 
 **Application Deadline:** 27 April 2023
 
