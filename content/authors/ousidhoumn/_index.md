@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alun Preece
-weight: 60
+title: Nedjma Ousidhoum
+weight: 50
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor & Co-Director Crime and Security Research Institute
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -17,24 +17,24 @@ organizations:
   url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: My research interests include text adaptation, evaluation of natural language generation, and NLP for education.
 
 interests:
-- Neuro-Symbolic Approaches
-- Disinformation Analytics
-- Human-Machine Collaboration
+- NLP for Low Resource Languages
+- Automated Fact-checking
+- Toxic Content Detection in NLP
 
-# education:
-#   courses:
-#   - course: PhD in Computer Science
-#     institution: University of Sheffield
-#     year: 2021
-#   - course: MSc in Computer Science
-#     institution: University of Sao Paulo
-#     year: 2013
-#   - course: BSc in Informatics Engineering
-#     institution: Pontifical Catholic University of Peru
-#     year: 2009
+education:
+  # courses:
+  # - course: PhD in Computer Science
+  #   institution: University of Sheffield
+  #   year: 2021
+  # - course: MSc in Computer Science
+  #   institution: University of Sao Paulo
+  #   year: 2013
+  # - course: BSc in Informatics Engineering
+  #   institution: Pontifical Catholic University of Peru
+  #   year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,19 +43,19 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.cardiff.ac.uk/people/view/91745-preece-alun
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/feralvam
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+  link: https://nedjmaou.github.io
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ndo24@cam.ac.uk'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/nedjmaou
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=6ZZtzmQAAAAJ&hl=en
 # - icon: semantic-scholar
 #   icon_pack: ai
-#   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
+#  link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
@@ -76,5 +76,3 @@ highlight_name: true
 user_groups:
 - Faculty
 ---
-
-
