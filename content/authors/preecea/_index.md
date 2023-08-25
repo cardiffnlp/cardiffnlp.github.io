@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Alun Preece
-weight: 60
+weight: 100
 
 # Is this the primary user of the site?
 superuser: true
