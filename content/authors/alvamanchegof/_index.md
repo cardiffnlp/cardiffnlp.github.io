@@ -21,8 +21,8 @@ bio: My research interests include text adaptation, evaluation of natural langua
 
 interests:
 - Text Adaptation
-- Evaluation of Natural Language Generation
-- Natural Language Processing for Education
+- Evaluation of Text Generation
+- NLP for Education
 
 education:
   courses:
