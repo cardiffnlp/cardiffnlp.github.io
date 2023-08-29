@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Core Faculty
 ---
 
 I am a Lecturer (~Assistant Professor) at the School of Computer Science and Informatics at Cardiff University. 
