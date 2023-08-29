@@ -7,7 +7,7 @@ weight: 30
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Senior Lecturer
 
 # Organizations/Affiliations
 organizations:

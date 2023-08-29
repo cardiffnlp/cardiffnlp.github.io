@@ -6,7 +6,7 @@ title: Carla Pérez-Almendros
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 bio: 
 
 interests:
--  Text Classification
+- Text Classification
 - Bias Detection
 - Ethics in NLP
 
@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Research Staff
 ---
 
 

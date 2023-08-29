@@ -7,7 +7,7 @@ weight: 10
 superuser: true
 
 # Role/position
-role: Senior Lecturer & UKRI Future Leaders Fellow
+role: Professor & UKRI Future Leaders Fellow
 
 # Organizations/Affiliations
 organizations:
