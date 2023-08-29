@@ -46,7 +46,7 @@ social:
   link: https://nedjmaou.github.io
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ndo24@cam.ac.uk'
+  link: 'mailto:OusidhoumN@cardiff.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nedjmaou
