@@ -1,5 +1,5 @@
 ---
-title: Cardiff NLP Hackathon
+title: Cardiff NLP Hackathon 2022
 subtitle: 
 date: "2022-10-20T00:00:00Z"
 
