@@ -18,7 +18,7 @@ design:
 
 <div style="width:70%; float: left;">
 
-<center>{{< figure src="group_pic.jpg" caption="Team Members" >}}</center>
+<center>{{< figure src="group_pic.png" caption="Team Members" >}}</center>
 
 **Natural Language Processing** (NLP) is a subfield of **Artificial Intelligence** concerned with how computers deal with language.
 NLP is a growing global industry with many active research directions.
