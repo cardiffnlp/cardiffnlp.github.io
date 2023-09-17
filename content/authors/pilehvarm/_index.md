@@ -42,7 +42,7 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: pilehvar.github.io
+  link: https://pilehvar.github.io/
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:'
