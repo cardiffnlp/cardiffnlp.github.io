@@ -20,9 +20,10 @@ organizations:
 bio: 
 
 interests:
-- Reasoning in Ontology-Enriched Systems
-- Reasoning with Temporal or Probabilistic Knowledge
-- Integration of Reasoning, Learning, Plausible Reasoning with Ontologies
+- Knowledge Graphs
+- Knowledge-aware NLP
+- Representation Learning
+- Commonsense Reasoning
 
 # education:
 #   courses:
