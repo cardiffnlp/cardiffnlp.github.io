@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-11-01T00:00:00Z
 
-authors: [zhouy]
+authors: [camachocolladosj]
 tags: []
 
 # Is this a featured event? (true/false)
