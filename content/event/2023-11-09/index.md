@@ -69,7 +69,8 @@ projects: []
 
 **Invited Speaker:** [Harish Tayyar Madabushi](https://www.harishtayyarmadabushi.com/) (University of Bath)
 
-**Bio**
+**Bio:**
+
 Dr Tayyar Madabushi's long term research goals are focused on investigating methods of incorporating high-level cognitive capabilities into models. In the short and medium term, his research is focused on the infusion of world knowledge, common sense and reasoning into pre-trained language models to improve performance on complex tasks such as multi-hop question answering, conversational agents, and social media analysis.
 
 Dr Tayyar Madabushi completed his PhD in AI, focusing on automated question answering at the University of Birmingham in 2019 and began his current post as Lecturer in Artificial Intelligence at the University of Bath in 2022. His research has been influential in the area of combining construction grammar and pre-trained language models, as he conducted the first exploration in this field, paving the way for further developments.
