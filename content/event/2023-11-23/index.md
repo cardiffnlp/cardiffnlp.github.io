@@ -11,7 +11,7 @@ location: Abacws and Online
 #   region:
 #   postcode:
 #   country:
-summary: Talk by [Jorge Osés ](https://jorses.github.io/) (Graphext and University of Jaén, Spain)
+summary: Talk by [Jorge Osés](https://jorses.github.io/) (Graphext and University of Jaén, Spain)
 abstract: "With the coming of new generation Large Language Models (LLMs), interfacing with tabular data through NLP based systems has become commonplace. Through the last decade we’ve seen a number of Question Answering approaches get developed in this direction, and now we’re seeing the more emerging capabilities of these systems come into place to enable new possibilities. In this talk, we’ll go over the recent history of NLP over databases, the new capabilities that have arisen and how we might develop an efficient benchmarking for the modern versions of these tasks."
 
 # Talk start and end times.
@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-**Invited Speaker:** [Jorge Osés ](https://jorses.github.io/) (Graphext and University of Jaén, Spain)
+**Invited Speaker:** [Jorge Osés](https://jorses.github.io/) (Graphext and University of Jaén, Spain)
