@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Carla Pérez-Almendros
+weight: 80
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staff
+- Core Faculty
 ---
 
 
