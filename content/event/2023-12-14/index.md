@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: \"Low-Resource Text Generation: Gaelic, Shared Tasks, \& Multitask Learning\""
+title: "Seminar: \"Low-Resource Text Generation: Gaelic, Shared Tasks, and Multitask Learning\""
 # event:
 # event_url:
 location: Abacws and Online
