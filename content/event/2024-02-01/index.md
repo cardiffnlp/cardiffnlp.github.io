@@ -11,7 +11,7 @@ location: Abacws
 #   region:
 #   postcode:
 #   country:
-summary: Talk by []() (AMPLYFI)
+summary: Talk by [Henrijs Princis]() (AMPLYFI)
 abstract: "One of the most evident impacts of the surge of generative AI and large language models is the proliferation of products and services using state-of-the-art NLP technologies that were beyond reach only a few months ago. One of the areas that has benefited the most is intelligence, including market, sales or knowledge intelligence, essentially, any area where being able to make informed decisions based on weak, fast-moving or contradictory signals is crucial. At AMPLYFI, we harvest, ingest and summarize all these signals, and allow users to dig deep into their feed to improve and accelerate their decision-making. On top of this, our software enables \"one-click\" AI-driven reports. In this talk, I will go over the rationale and techniques behind these reports, challenges, and directions for future work."
 
 # Talk start and end times.
