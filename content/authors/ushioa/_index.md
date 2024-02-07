@@ -6,7 +6,7 @@ title: Asahi Ushio
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Former Members
 
 # Organizations/Affiliations
 organizations:
