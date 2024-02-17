@@ -75,5 +75,7 @@ projects: []
 Valerio Basile is an Assistant Professor at the Computer Science Department of the University of Turin, Italy, member of the Content-centered Computing group and the Hate Speech Monitoring group. His work spans across several areas such as: formal representations of meaning, linguistic annotation, natural language generation, commonsense knowledge, semantic parsing, sentiment analysis, and hate speech detection, perspectives and bias in supervised machine learning, from data creation to system evaluation. He is currently PI of the project BREAKhateDOWN "Toxic Language Understanding in Online Communication", and among the main proponents of the Perspectivist Data Manifesto.
 
 [1] The Perspectivist Manifesto. https://pdai.info/
+
 [2] Basile et al. 2021. [We Need to Consider Disagreement in Evaluation](https://aclanthology.org/2021.bppf-1.3/)
+
 [3] Cabitza et al. AAAI-23. [Toward a perspectivist turn in ground truthing for predictive computing](https://ojs.aaai.org/index.php/AAAI/article/view/25840)
