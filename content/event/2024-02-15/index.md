@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: \"Capture Cognitive Biases: Discount model and trustworthiness evaluation.\""
+title: "Seminar: \"Capture Cognitive Biases: Discount Model and Trustworthiness Evaluation\""
 # event:
 # event_url:
 location: Abacws

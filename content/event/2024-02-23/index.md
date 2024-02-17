@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: \"Cross-lingual Transfer Learning with Multilingual Masked Language Models.\""
+title: "Seminar: \"Cross-lingual Transfer Learning with Multilingual Masked Language Models\""
 # event:
 # event_url:
 location: Abacws
