@@ -19,11 +19,10 @@ organizations:
 bio: 
 
 interests:
-- Lexical Semantics
-- Word Sense Disambiguation
-- Commonsense Reasoning
-- Social Biases in Language Models
+- Fairness
+- Bias and Ethics in Language Models
 - Interpretability
+- Lexical Semantics
 
 # education:
 #   courses:
