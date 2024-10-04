@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2024-09-27T00:00:00Z
 
-authors: [camachocolladosj]
+authors: [ousidhoumn]
 tags: []
 
 # Is this a featured event? (true/false)
