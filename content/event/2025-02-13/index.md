@@ -16,8 +16,8 @@ abstract: "In this talk, I’ll cover two recent papers for preference alignment
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-02-06T13:00:00Z
-date_end: 2025-02-06T14:00:00Z
+date: 2025-02-13T13:00:00Z
+date_end: 2025-02-13T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
