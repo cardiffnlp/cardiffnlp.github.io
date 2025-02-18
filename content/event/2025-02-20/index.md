@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: \"Preference Alignment, with Reference Mismatch, and without Reference Models\""
+title: "Seminar: \"NLP and CSS: Lessons from One for the Other\""
 # event:
 # event_url:
 location: Abacws
