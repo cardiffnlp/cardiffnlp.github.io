@@ -11,7 +11,7 @@ location: Abacws
 #   region:
 #   postcode:
 #   country:
-summary: Talks by [Marta Vazquez Abuin](https://scholar.google.com/citations?user=JGCRM3cAAAAJ), [Jingxuan Chen](https://scholar.google.com/citations?user=ELXulHQAAAAJ) and [Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan)
+summary: Talks by [Marta Vazquez Abuin](https://scholar.google.com/citations?user=JGCRM3cAAAAJ), [Jingxuan Chen](https://scholar.google.com/citations?user=ELXulHQAAAAJ), [Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan) and [Christian Arnold](https://www.birmingham.ac.uk/staff/profiles/gov/arnold-christian)
 abstract: ""
 
 # Talk start and end times.
@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-**Invited Speakers:** [Marta Vazquez Abuin](https://scholar.google.com/citations?user=JGCRM3cAAAAJ), [Jingxuan Chen](https://scholar.google.com/citations?user=ELXulHQAAAAJ) and [Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan)
+**Invited Speakers:** [Marta Vazquez Abuin](https://scholar.google.com/citations?user=JGCRM3cAAAAJ), [Jingxuan Chen](https://scholar.google.com/citations?user=ELXulHQAAAAJ), [Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan) and [Christian Arnold](https://www.birmingham.ac.uk/staff/profiles/gov/arnold-christian)
