@@ -6,7 +6,7 @@ subtitle: We host weekly meetings on **Thursdays at 1pm** (UK time). Most of the
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: compact
 
 # Optional header image (relative to `static/media/` folder).
 header:

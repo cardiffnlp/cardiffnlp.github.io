@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: \"The \'BERT moment\' for Music - MERT: Large-Scale Self-supervised Training for Acoustic Music Understanding
-\""
+title: "Seminar: \"The 'BERT moment' for Music - MERT: Large-Scale Self-supervised Training for Acoustic Music Understanding\""
 # event:
 # event_url:
 location: Abacws

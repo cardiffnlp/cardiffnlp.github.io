@@ -2,6 +2,13 @@
 
 Based on [Wowchemy's Research Group Template](https://github.com/wowchemy/starter-hugo-research-group) for [Hugo](https://github.com/gohugoio/hugo).
 
+Start-up instructions:
+
+```
+brew install hugo
+hugo server
+```
+
 Some useful links:
 
 - 👉 [**Get Started**](https://wowchemy.com/templates/)

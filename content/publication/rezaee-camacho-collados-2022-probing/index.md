@@ -47,7 +47,6 @@ abstract: Understanding relational knowledge plays an integral part in natural l
   for (3). To better understand the reasons behind this behaviour and mistakes made
   by PLMs, we provide an extended quantitative analysis based on relevant factors
   such as frequency.
-publication: '*Findings of the Association for Computational Linguistics: EMNLP 2022*'
 publication: '*Findings EMNLP 2022*'
 url_pdf: https://aclanthology.org/2022.findings-emnlp.289.pdf
 ---
